@@ -11,8 +11,11 @@
 
 ## Description
 -In this assignment, the task is with conducting a topological analysis of the human protein interaction network. Your objectives include calculating the degree centrality and local clustering coefficients for each protein node to assess node connectivity and local network density. 
+
 -Additionally, compute the global clustering coefficient to evaluate the network's overall cliquishness and verify if the network exhibits scale-free characteristics by analyzing the degree distribution.
+
 -For the second segment, you will calculate shortest path lengths among protein pairs in two distinct datasets using Dijkstra's algorithm.
+
 -Utilize statistical tests like the Wilcoxon test to compare these path length distributions, thereby quantifying structural variability between the two protein sets within the network framework.
 
 
