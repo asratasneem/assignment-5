@@ -7,6 +7,7 @@
 
 ## Programming Language & Dependicies
 -Python
+
 -Libraries: pandas, networkx, numpy, scipy
 
 ## Description
@@ -21,12 +22,16 @@
 
 ## Input_files
 -Human_PPI.csv
+
 -protein1.csv
+
 -protein2.csv
 
 ## Results
 -Calculated degree centrality and clustering coefficients for proteins in the human protein interaction network showed moderate connectivity and clustering, with an average clustering coefficient of about 0.210.
+
 -The degree distribution indicated a scale-free structure, typical for biological networks with a few highly connected hubs.
+
 -Shortest path lengths between protein pairs in two datasets were compared using the Wilcoxon test, revealing no significant differences in connectivity (p-value ≈ 6.0999954580897106e-05).
 
 
